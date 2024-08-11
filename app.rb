@@ -8,6 +8,3 @@ get("/") do
   "
 end
 
-get("/rock") do
-"this string will be sent as the body of the response"
-end
